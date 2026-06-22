@@ -6,7 +6,8 @@
 #define StrLength 100
 int main(void)
 {
-    static int flagsetTest; 
+    static int flagsetTest;
+    static int flagsetTest2;
     char pre[20];
     char str[10000][20];
     int preindex[10000];
