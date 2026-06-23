@@ -6,6 +6,7 @@
 #define StrLength 100
 int main(void)
 {
+    b;
     a;
     static int flagsetTest;
     static int flagsetTest2;
